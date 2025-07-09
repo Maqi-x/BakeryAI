@@ -1,2 +1,2 @@
-# BackeryAI
-BackeryAI - A citizen surveillance bot (lmao)
+# BakeryAI
+BakeryAI - A citizen surveillance bot (lmao)
